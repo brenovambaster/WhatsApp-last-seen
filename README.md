@@ -5,3 +5,7 @@ When was it last seen and how long it was online.
 ❗🔺 Considerations
  - The code is intended for parents to monitor their children when they are online (especially during the night).
  - Just copy and paste into the console, after opening the chat, and leave it running. To do this, you must keep the computer turned on and the  whatsapp web open.
+
+![image](https://user-images.githubusercontent.com/42620040/147936235-c90a22eb-c24b-4e4a-810c-6a55c914f2b7.png)
+
+
