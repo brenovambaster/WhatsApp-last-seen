@@ -10,7 +10,7 @@ let b = setInterval(() => {
     if (a.length) {
         console.log(`ONLINE hora: ${hora.getHours()}:${hora.getMinutes()}:${hora.getSeconds()}`);
     } else
-        console.log("off");
+        console.log(`off ${hora.getHours()}:${hora.getMinutes()}`);
 }, 3000)
 ```
 
