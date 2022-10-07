@@ -1,4 +1,10 @@
-# WhatsApp-last-seen
+<h1 align="center">
+    <br>
+    WhatsApp-last-seen <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
+    <br>
+   
+</h1>
+
 When was it last seen and how long it was online.
 ### Copy the javascript code and paste in the browser console after opening an inbox in whatsapp web.
 
