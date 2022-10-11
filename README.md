@@ -17,6 +17,8 @@ let b = setInterval(() => {
         console.log("off");
     } else if (a[0].title == "online") {
         console.log(`online ${hora.getHours()}:${hora.getMinutes()}`);
+    }else{
+        console.log("undefined");
     }
 }, 3000)
 b;
